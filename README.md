@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Ap computer science 2022 <br>🔭 I'm currently working on finishing my bachelor degree in IT-security.<br>🌱 I’m currently learning system security, Network-communication security and cryptography<br><br>
+⚡ Ap degree computer science 2022 <br>🔭 I'm currently working on finishing my bachelor degree in IT-security.<br>🌱 I’m currently learning system security, Network-communication security and cryptography<br><br>
 
 
 # 💻 Tech Stack:
